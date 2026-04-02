@@ -68,7 +68,7 @@ const ComplexGuide1 = () => {
         name="keywords"
         content="모종 삼일 파라뷰, 호수배치도, 세대배치, 동호수 안내, 아산 모종 아파트"
       />
-      <link rel="canonical" href="https://intercs.co.kr/ComplexGuide/detailintro" />
+      <link rel="canonical" href="https://www.a7lashare.com/ComplexGuide/detailintro" />
 
       {/* Open Graph */}
       <meta property="og:type" content="website" />
@@ -79,8 +79,8 @@ const ComplexGuide1 = () => {
         property="og:description"
         content="모종 삼일 파라뷰호수배치도에서 세대 위치와 배치 구조를 한눈에 확인하세요."
       />
-      <meta property="og:url" content="https://intercs.co.kr/ComplexGuide/detailintro" />
-      <meta property="og:image" content="https://intercs.co.kr/Main1.png" />
+      <meta property="og:url" content="https://www.a7lashare.com/ComplexGuide/detailintro" />
+      <meta property="og:image" content="https://www.a7lashare.com/Main1.png" />
       <meta property="og:image:alt" content="모종 삼일 파라뷰호수배치도" />
 
       {/* Twitter */}
@@ -90,8 +90,8 @@ const ComplexGuide1 = () => {
         name="twitter:description"
         content="모종 삼일 파라뷰호수배치도를 통해 세대 위치와 동호수 배치를 확인하세요."
       />
-      <meta name="twitter:image" content="https://intercs.co.kr/Main1.png" />
-      <meta name="twitter:url" content="https://intercs.co.kr/ComplexGuide/detailintro" />
+      <meta name="twitter:image" content="https://www.a7lashare.com/Main1.png" />
+      <meta name="twitter:url" content="https://www.a7lashare.com/ComplexGuide/detailintro" />
     </Helmet>
 
     <Header isChanged={isScroll} />

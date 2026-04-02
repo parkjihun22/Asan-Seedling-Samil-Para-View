@@ -68,7 +68,7 @@ const BusinessGuide2 = () => {
             name="keywords"
             content="모종 삼일 파라뷰, 분양일정, 청약일정, 당첨자발표, 계약일정, 아산 모종 아파트"
         />
-        <link rel="canonical" href="https://intercs.co.kr/BusinessGuide/plan" />
+        <link rel="canonical" href="https://www.a7lashare.com/BusinessGuide/plan" />
 
         {/* Open Graph */}
         <meta property="og:type" content="website" />
@@ -79,8 +79,8 @@ const BusinessGuide2 = () => {
             property="og:description"
             content="모종 삼일 파라뷰분양일정 - 청약 접수 및 당첨자 발표 등 주요 일정을 확인하세요."
         />
-        <meta property="og:url" content="https://intercs.co.kr/BusinessGuide/plan" />
-        <meta property="og:image" content="https://intercs.co.kr/Main1.png" />
+        <meta property="og:url" content="https://www.a7lashare.com/BusinessGuide/plan" />
+        <meta property="og:image" content="https://www.a7lashare.com/Main1.png" />
         <meta property="og:image:alt" content="모종 삼일 파라뷰분양일정" />
 
         {/* Twitter */}
@@ -90,7 +90,7 @@ const BusinessGuide2 = () => {
             name="twitter:description"
             content="모종 삼일 파라뷰분양일정 - 주요 일정(청약/당첨자발표/계약)을 확인하세요."
         />
-        <meta name="twitter:image" content="https://intercs.co.kr/Main1.png" />
+        <meta name="twitter:image" content="https://www.a7lashare.com/Main1.png" />
         </Helmet>
 
         <Header isChanged={isScroll} />

@@ -11,7 +11,7 @@ import InterestPopup from "../InterestPopup/InterestPopup";
 
 // FAMILY SITE 목록 예시
 const partnerSites = [
-  { name: "모종 삼일 파라뷰", url: "https://intercs.co.kr/" },
+  { name: "모종 삼일 파라뷰", url: "https://www.a7lashare.com/" },
 ];
 
 const Footer = () => {

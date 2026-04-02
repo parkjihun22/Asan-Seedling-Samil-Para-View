@@ -62,7 +62,7 @@ const Brand2 = () => {
 					name="keywords"
 					content="모종 삼일 파라뷰, 홍보영상, 단지영상, 아산 모종 아파트, 아산 민간임대아파트"
 				/>
-				<link rel="canonical" href="https://intercs.co.kr/Brand/video" />
+				<link rel="canonical" href="https://www.a7lashare.com/Brand/video" />
 
 				{/* Open Graph (minimal) */}
 				<meta property="og:type" content="website" />
@@ -73,16 +73,16 @@ const Brand2 = () => {
 					property="og:description"
 					content="홍보영상으로 모종 삼일 파라뷰의 핵심 포인트를 간단히 확인하세요."
 				/>
-				<meta property="og:url" content="https://intercs.co.kr/Brand/video" />
-				<meta property="og:image" content="https://intercs.co.kr/Main1.png" />
+				<meta property="og:url" content="https://www.a7lashare.com/Brand/video" />
+				<meta property="og:image" content="https://www.a7lashare.com/Main1.png" />
 				<meta property="og:image:alt" content="모종 삼일 파라뷰홍보영상 썸네일" />
 
 				{/* Twitter (minimal) */}
 				<meta name="twitter:card" content="summary_large_image" />
 				<meta name="twitter:title" content="모종 삼일 파라뷰- 홍보영상" />
 				<meta name="twitter:description" content="영상으로 단지의 핵심 포인트를 빠르게 확인하세요." />
-				<meta name="twitter:image" content="https://intercs.co.kr/Main1.png" />
-				<meta name="twitter:url" content="https://intercs.co.kr/Brand/video" />
+				<meta name="twitter:image" content="https://www.a7lashare.com/Main1.png" />
+				<meta name="twitter:url" content="https://www.a7lashare.com/Brand/video" />
 			</Helmet>
 
 			<Header isChanged={isScroll} />

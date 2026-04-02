@@ -76,7 +76,7 @@ const BusinessGuide1 = () => {
 				name="keywords"
 				content="모종 삼일 파라뷰, 아산 모종 아파트, 아산 민간임대아파트, 사업개요, 아산 모종 주거단지"
 			/>
-			<link rel="canonical" href="https://intercs.co.kr/BusinessGuide/intro" />
+			<link rel="canonical" href="https://www.a7lashare.com/BusinessGuide/intro" />
 
 			{/* Open Graph */}
 			<meta property="og:type" content="website" />
@@ -87,9 +87,9 @@ const BusinessGuide1 = () => {
 				property="og:description"
 				content="모종 삼일 파라뷰의 사업개요와 핵심 정보를 확인하세요."
 			/>
-			<meta property="og:image" content="https://intercs.co.kr/Main1.png" />
+			<meta property="og:image" content="https://www.a7lashare.com/Main1.png" />
 			<meta property="og:image:alt" content="모종 삼일 파라뷰조감도" />
-			<meta property="og:url" content="https://intercs.co.kr/BusinessGuide/intro" />
+			<meta property="og:url" content="https://www.a7lashare.com/BusinessGuide/intro" />
 
 			{/* Twitter */}
 			<meta name="twitter:card" content="summary_large_image" />
@@ -98,8 +98,8 @@ const BusinessGuide1 = () => {
 				name="twitter:description"
 				content="모종 삼일 파라뷰사업개요와 단지 핵심 정보를 소개합니다."
 			/>
-			<meta name="twitter:image" content="https://intercs.co.kr/Main1.png" />
-			<meta name="twitter:url" content="https://intercs.co.kr/BusinessGuide/intro" />
+			<meta name="twitter:image" content="https://www.a7lashare.com/Main1.png" />
+			<meta name="twitter:url" content="https://www.a7lashare.com/BusinessGuide/intro" />
 
 			{/* JSON-LD 구조화 데이터 */}
 			<script type="application/ld+json">
@@ -109,7 +109,7 @@ const BusinessGuide1 = () => {
 			"@type": "WebPage",
 			"name": "모종 삼일 파라뷰- 사업안내",
 			"description": "모종 삼일 파라뷰사업개요 및 단지 주요 정보를 소개합니다.",
-			"url": "https://intercs.co.kr/BusinessGuide/intro",
+			"url": "https://www.a7lashare.com/BusinessGuide/intro",
 			"inLanguage": "ko-KR"
 			}
 			`}

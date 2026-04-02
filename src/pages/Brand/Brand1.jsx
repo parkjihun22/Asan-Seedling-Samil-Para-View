@@ -65,7 +65,7 @@ const Brand1 = () => {
             name="keywords"
             content="모종 삼일 파라뷰, 아산 모종 아파트, 아산 민간임대아파트, 아산 모종 민간임대, 브랜드소개"
           />
-          <link rel="canonical" href="https://intercs.co.kr/Brand/intro" />
+          <link rel="canonical" href="https://www.a7lashare.com/Brand/intro" />
 
           {/* Open Graph */}
           <meta property="og:type" content="website" />
@@ -76,8 +76,8 @@ const Brand1 = () => {
             property="og:description"
             content="모종 삼일 파라뷰의 브랜드 가치와 주거 철학을 소개합니다."
           />
-          <meta property="og:url" content="https://intercs.co.kr/Brand/intro" />
-          <meta property="og:image" content="https://intercs.co.kr/Main1.png" />
+          <meta property="og:url" content="https://www.a7lashare.com/Brand/intro" />
+          <meta property="og:image" content="https://www.a7lashare.com/Main1.png" />
           <meta property="og:image:alt" content="모종 삼일 파라뷰브랜드 이미지" />
 
           {/* Twitter */}
@@ -87,8 +87,8 @@ const Brand1 = () => {
             name="twitter:description"
             content="모종 삼일 파라뷰의 브랜드 가치와 주거 철학을 소개합니다."
           />
-          <meta name="twitter:image" content="https://intercs.co.kr/Main1.png" />
-          <meta name="twitter:url" content="https://intercs.co.kr/Brand/intro" />
+          <meta name="twitter:image" content="https://www.a7lashare.com/Main1.png" />
+          <meta name="twitter:url" content="https://www.a7lashare.com/Brand/intro" />
 
           {/* Structured Data */}
           <script type="application/ld+json">
@@ -96,7 +96,7 @@ const Brand1 = () => {
               "@context": "https://schema.org",
               "@type": "AboutPage",
               "name": "모종 삼일 파라뷰- 브랜드 소개",
-              "url": "https://intercs.co.kr/Brand/intro",
+              "url": "https://www.a7lashare.com/Brand/intro",
               "inLanguage": "ko-KR",
               "description": "모종 삼일 파라뷰의 브랜드 가치와 주거 철학을 소개합니다.",
               "isPartOf": {
@@ -110,12 +110,12 @@ const Brand1 = () => {
                   "@type": "ListItem",
                   "position": 1,
                   "name": "홈",
-                  "item": "https://intercs.co.kr/"
+                  "item": "https://www.a7lashare.com/"
                 }, {
                   "@type": "ListItem",
                   "position": 2,
                   "name": "브랜드 소개",
-                  "item": "https://intercs.co.kr/Brand/intro"
+                  "item": "https://www.a7lashare.com/Brand/intro"
                 }]
               }
             }`}

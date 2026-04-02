@@ -80,7 +80,7 @@ const BusinessGuide2 = () => {
 			/>
 
 			{/* ✅ 여기 canonical은 실제 공급안내 라우트로 맞춰야 함 */}
-			<link rel="canonical" href="https://intercs.co.kr/SalesInfo/guide" />
+			<link rel="canonical" href="https://www.a7lashare.com/SalesInfo/guide" />
 
 			{/* Open Graph */}
 			<meta property="og:type" content="website" />
@@ -91,8 +91,8 @@ const BusinessGuide2 = () => {
 				property="og:description"
 				content="모종 삼일 파라뷰공급안내 - 공급개요, 신청자격, 유의사항 등 청약에 필요한 정보를 확인하세요."
 			/>
-			<meta property="og:url" content="https://intercs.co.kr/SalesInfo/guide" />
-			<meta property="og:image" content="https://intercs.co.kr/Main1.png" />
+			<meta property="og:url" content="https://www.a7lashare.com/SalesInfo/guide" />
+			<meta property="og:image" content="https://www.a7lashare.com/Main1.png" />
 			<meta property="og:image:alt" content="모종 삼일 파라뷰공급안내" />
 
 			{/* Twitter */}
@@ -102,7 +102,7 @@ const BusinessGuide2 = () => {
 				name="twitter:description"
 				content="모종 삼일 파라뷰공급안내 - 청약에 필요한 핵심 정보를 확인하세요."
 			/>
-			<meta name="twitter:image" content="https://intercs.co.kr/Main1.png" />
+			<meta name="twitter:image" content="https://www.a7lashare.com/Main1.png" />
 		</Helmet>
 
 		<Header isChanged={isScroll} />

@@ -83,7 +83,7 @@ export default function Customer() {
           name="keywords"
           content="모종 삼일 파라뷰, 관심고객 등록, 상담 신청, 분양 일정 알림, 방문 안내"
         />
-        <link rel="canonical" href="https://intercs.co.kr/Contact/interest" />
+        <link rel="canonical" href="https://www.a7lashare.com/Contact/interest" />
 
         {/* Open Graph */}
         <meta property="og:type" content="website" />
@@ -94,8 +94,8 @@ export default function Customer() {
           property="og:description"
           content="분양 일정 및 주요 안내 소식을 빠르게 받아보세요. 간편한 관심고객 등록/상담 신청."
         />
-        <meta property="og:url" content="https://intercs.co.kr/Contact/interest" />
-        <meta property="og:image" content="https://intercs.co.kr/Main1.png" />
+        <meta property="og:url" content="https://www.a7lashare.com/Contact/interest" />
+        <meta property="og:image" content="https://www.a7lashare.com/Main1.png" />
         <meta
           property="og:image:alt"
           content="모종 삼일 파라뷰관심고객 등록 안내 이미지"
@@ -108,8 +108,8 @@ export default function Customer() {
           name="twitter:description"
           content="분양 일정 알림과 상담 요청을 간편하게 남겨보세요."
         />
-        <meta name="twitter:image" content="https://intercs.co.kr/Main1.png" />
-        <meta name="twitter:url" content="https://intercs.co.kr/Contact/interest" />
+        <meta name="twitter:image" content="https://www.a7lashare.com/Main1.png" />
+        <meta name="twitter:url" content="https://www.a7lashare.com/Contact/interest" />
 
         {/* JSON-LD: ContactPage + Breadcrumbs */}
         <script type="application/ld+json">
@@ -117,7 +117,7 @@ export default function Customer() {
             "@context": "https://schema.org",
             "@type": "ContactPage",
             "name": "모종 삼일 파라뷰– 관심고객 등록",
-            "url": "https://intercs.co.kr/Contact/interest",
+            "url": "https://www.a7lashare.com/Contact/interest",
             "inLanguage": "ko-KR",
             "description": "모종 삼일 파라뷰관심고객 등록. 분양 일정 및 주요 안내 소식 알림과 상담 요청을 접수합니다.",
             "isPartOf": {
@@ -131,17 +131,17 @@ export default function Customer() {
                 "@type": "ListItem",
                 "position": 1,
                 "name": "홈",
-                "item": "https://intercs.co.kr/"
+                "item": "https://www.a7lashare.com/"
               }, {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "관심고객 등록",
-                "item": "https://intercs.co.kr/Contact/interest"
+                "item": "https://www.a7lashare.com/Contact/interest"
               }]
             },
             "potentialAction": {
               "@type": "SubmitAction",
-              "target": "https://intercs.co.kr/Contact/interest",
+              "target": "https://www.a7lashare.com/Contact/interest",
               "name": "관심고객 등록 제출"
             }
           }`}

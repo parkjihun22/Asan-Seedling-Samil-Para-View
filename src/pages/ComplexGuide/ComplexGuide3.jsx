@@ -66,7 +66,7 @@ const ComplexGuide3 = () => {
         name="keywords"
         content="모종 삼일 파라뷰, 커뮤니티, 단지 커뮤니티, 피트니스, 독서실, 커뮤니티시설, 아산 모종 아파트"
       />
-      <link rel="canonical" href="https://intercs.co.kr/ComplexGuide/community" />
+      <link rel="canonical" href="https://www.a7lashare.com/ComplexGuide/community" />
 
       {/* Open Graph */}
       <meta property="og:type" content="website" />
@@ -77,8 +77,8 @@ const ComplexGuide3 = () => {
         property="og:description"
         content="모종 삼일 파라뷰커뮤니티 시설과 편의 공간을 확인하세요."
       />
-      <meta property="og:url" content="https://intercs.co.kr/ComplexGuide/community" />
-      <meta property="og:image" content="https://intercs.co.kr/Main1.png" />
+      <meta property="og:url" content="https://www.a7lashare.com/ComplexGuide/community" />
+      <meta property="og:image" content="https://www.a7lashare.com/Main1.png" />
       <meta property="og:image:alt" content="모종 삼일 파라뷰커뮤니티" />
 
       {/* Twitter */}
@@ -88,8 +88,8 @@ const ComplexGuide3 = () => {
         name="twitter:description"
         content="모종 삼일 파라뷰커뮤니티 시설을 확인하세요."
       />
-      <meta name="twitter:image" content="https://intercs.co.kr/Main1.png" />
-      <meta name="twitter:url" content="https://intercs.co.kr/ComplexGuide/community" />
+      <meta name="twitter:image" content="https://www.a7lashare.com/Main1.png" />
+      <meta name="twitter:url" content="https://www.a7lashare.com/ComplexGuide/community" />
     </Helmet>
 
     <Header isChanged={isScroll} />

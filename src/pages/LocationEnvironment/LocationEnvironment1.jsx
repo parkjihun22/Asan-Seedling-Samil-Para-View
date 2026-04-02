@@ -115,7 +115,7 @@ const LocationEnvironment1 = () => {
         name="keywords"
         content="모종 삼일 파라뷰, 입지환경, 입지안내, 교통, 생활인프라, 교육환경, 자연환경, 아산 모종 아파트"
       />
-      <link rel="canonical" href="https://intercs.co.kr/LocationEnvironment/intro" />
+      <link rel="canonical" href="https://www.a7lashare.com/LocationEnvironment/intro" />
 
       {/* Open Graph */}
       <meta property="og:type" content="website" />
@@ -126,8 +126,8 @@ const LocationEnvironment1 = () => {
         property="og:description"
         content="모종 삼일 파라뷰입지환경 - 교통, 생활인프라, 교육, 자연환경 포인트를 확인하세요."
       />
-      <meta property="og:url" content="https://intercs.co.kr/LocationEnvironment/intro" />
-      <meta property="og:image" content="https://intercs.co.kr/Main1.png" />
+      <meta property="og:url" content="https://www.a7lashare.com/LocationEnvironment/intro" />
+      <meta property="og:image" content="https://www.a7lashare.com/Main1.png" />
       <meta property="og:image:alt" content="모종 삼일 파라뷰입지환경" />
 
       {/* Twitter */}
@@ -137,8 +137,8 @@ const LocationEnvironment1 = () => {
         name="twitter:description"
         content="모종 삼일 파라뷰입지환경 - 교통, 생활인프라, 교육, 자연환경 포인트를 확인하세요."
       />
-      <meta name="twitter:image" content="https://intercs.co.kr/Main1.png" />
-      <meta name="twitter:url" content="https://intercs.co.kr/LocationEnvironment/intro" />
+      <meta name="twitter:image" content="https://www.a7lashare.com/Main1.png" />
+      <meta name="twitter:url" content="https://www.a7lashare.com/LocationEnvironment/intro" />
 
       {/* JSON-LD */}
       <script type="application/ld+json">
@@ -147,7 +147,7 @@ const LocationEnvironment1 = () => {
           "@type": "WebPage",
           "name": "모종 삼일 파라뷰- 입지환경",
           "description": "모종 삼일 파라뷰입지환경을 안내합니다. 교통, 생활 인프라, 교육 및 자연환경 등 입지 포인트를 확인하세요.",
-          "url": "https://intercs.co.kr/LocationEnvironment/intro",
+          "url": "https://www.a7lashare.com/LocationEnvironment/intro",
           "inLanguage": "ko-KR"
         }`}
       </script>

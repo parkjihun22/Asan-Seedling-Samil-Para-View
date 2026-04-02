@@ -67,7 +67,7 @@ const ComplexGuide1 = () => {
 				name="keywords"
 				content="모종 삼일 파라뷰, 단지배치도, 단지안내, 동배치, 조경, 커뮤니티시설, 아산 모종 아파트"
 			/>
-			<link rel="canonical" href="https://intercs.co.kr/ComplexGuide/intro" />
+			<link rel="canonical" href="https://www.a7lashare.com/ComplexGuide/intro" />
 
 			{/* Open Graph */}
 			<meta property="og:type" content="website" />
@@ -78,8 +78,8 @@ const ComplexGuide1 = () => {
 				property="og:description"
 				content="모종 삼일 파라뷰단지배치도 - 동별 위치, 주요 동선, 커뮤니티 및 조경 공간 배치를 확인하세요."
 			/>
-			<meta property="og:url" content="https://intercs.co.kr/ComplexGuide/intro" />
-			<meta property="og:image" content="https://intercs.co.kr/Main1.png" />
+			<meta property="og:url" content="https://www.a7lashare.com/ComplexGuide/intro" />
+			<meta property="og:image" content="https://www.a7lashare.com/Main1.png" />
 			<meta property="og:image:alt" content="모종 삼일 파라뷰단지배치도 이미지" />
 
 			{/* Twitter */}
@@ -89,8 +89,8 @@ const ComplexGuide1 = () => {
 				name="twitter:description"
 				content="모종 삼일 파라뷰단지배치도에서 동별 위치와 동선, 커뮤니티 및 조경 배치를 확인하세요."
 			/>
-			<meta name="twitter:image" content="https://intercs.co.kr/Main1.png" />
-			<meta name="twitter:url" content="https://intercs.co.kr/ComplexGuide/intro" />
+			<meta name="twitter:image" content="https://www.a7lashare.com/Main1.png" />
+			<meta name="twitter:url" content="https://www.a7lashare.com/ComplexGuide/intro" />
 
 			{/* JSON-LD */}
 			<script type="application/ld+json">
@@ -99,7 +99,7 @@ const ComplexGuide1 = () => {
 				"@type": "WebPage",
 				"name": "모종 삼일 파라뷰- 단지배치도",
 				"description": "모종 삼일 파라뷰단지배치도를 통해 동별 위치와 주요 동선, 커뮤니티 및 조경 공간 배치를 확인하세요.",
-				"url": "https://intercs.co.kr/ComplexGuide/intro",
+				"url": "https://www.a7lashare.com/ComplexGuide/intro",
 				"inLanguage": "ko-KR"
 				}`}
 			</script>

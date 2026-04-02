@@ -61,7 +61,7 @@ const LocationEnvironment1 = () => {
         name="keywords"
         content="모종 삼일 파라뷰, 프리미엄, 단지 설계, 커뮤니티, 주거가치, 아산 모종 아파트"
       />
-      <link rel="canonical" href="https://intercs.co.kr/LocationEnvironment/primium" />
+      <link rel="canonical" href="https://www.a7lashare.com/LocationEnvironment/primium" />
 
       {/* Open Graph */}
       <meta property="og:type" content="website" />
@@ -72,8 +72,8 @@ const LocationEnvironment1 = () => {
         property="og:description"
         content="단지 설계, 커뮤니티 등 모종 삼일 파라뷰의 프리미엄 포인트를 확인하세요."
       />
-      <meta property="og:url" content="https://intercs.co.kr/LocationEnvironment/primium" />
-      <meta property="og:image" content="https://intercs.co.kr/Main1.png" />
+      <meta property="og:url" content="https://www.a7lashare.com/LocationEnvironment/primium" />
+      <meta property="og:image" content="https://www.a7lashare.com/Main1.png" />
       <meta property="og:image:alt" content="모종 삼일 파라뷰프리미엄" />
 
       {/* Twitter */}
@@ -83,8 +83,8 @@ const LocationEnvironment1 = () => {
         name="twitter:description"
         content="모종 삼일 파라뷰프리미엄 포인트를 확인하세요."
       />
-      <meta name="twitter:image" content="https://intercs.co.kr/Main1.png" />
-      <meta name="twitter:url" content="https://intercs.co.kr/LocationEnvironment/primium" />
+      <meta name="twitter:image" content="https://www.a7lashare.com/Main1.png" />
+      <meta name="twitter:url" content="https://www.a7lashare.com/LocationEnvironment/primium" />
     </Helmet>
 
     <Header isChanged={isScroll} />

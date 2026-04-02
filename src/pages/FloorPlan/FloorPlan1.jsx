@@ -76,7 +76,7 @@ const FloorPlan1 = () => {
         name="keywords"
         content="모종 삼일 파라뷰, 59A, 평면안내, 평면도, 59타입, 세대구조, 공간활용"
       />
-      <link rel="canonical" href="https://intercs.co.kr/FloorPlan/59A" />
+      <link rel="canonical" href="https://www.a7lashare.com/FloorPlan/59A" />
 
       {/* Open Graph */}
       <meta property="og:type" content="website" />
@@ -87,9 +87,9 @@ const FloorPlan1 = () => {
         property="og:description"
         content="모종 삼일 파라뷰59A 평면안내 – 세대 구조와 공간 구성 포인트를 확인하세요."
       />
-      <meta property="og:image" content="https://intercs.co.kr/Main1.png" />
+      <meta property="og:image" content="https://www.a7lashare.com/Main1.png" />
       <meta property="og:image:alt" content="모종 삼일 파라뷰59A 평면도" />
-      <meta property="og:url" content="https://intercs.co.kr/FloorPlan/59A" />
+      <meta property="og:url" content="https://www.a7lashare.com/FloorPlan/59A" />
 
       {/* Twitter 카드 */}
       <meta name="twitter:card" content="summary_large_image" />
@@ -98,8 +98,8 @@ const FloorPlan1 = () => {
         name="twitter:description"
         content="모종 삼일 파라뷰59A 평면안내 – 구조, 동선, 수납 포인트를 확인하세요."
       />
-      <meta name="twitter:image" content="https://intercs.co.kr/Main1.png" />
-      <meta name="twitter:url" content="https://intercs.co.kr/FloorPlan/59A" />
+      <meta name="twitter:image" content="https://www.a7lashare.com/Main1.png" />
+      <meta name="twitter:url" content="https://www.a7lashare.com/FloorPlan/59A" />
 
       {/* 구조화된 데이터 (JSON-LD) */}
       <script type="application/ld+json">
@@ -108,7 +108,7 @@ const FloorPlan1 = () => {
           "@type": "WebPage",
           "name": "모종 삼일 파라뷰– 59A 평면안내",
           "description": "모종 삼일 파라뷰59A 평면안내입니다. 세대 구조, 공간 활용, 수납과 동선 구성을 확인하세요.",
-          "url": "https://intercs.co.kr/FloorPlan/59A",
+          "url": "https://www.a7lashare.com/FloorPlan/59A",
           "inLanguage": "ko-KR"
         }`}
       </script>
