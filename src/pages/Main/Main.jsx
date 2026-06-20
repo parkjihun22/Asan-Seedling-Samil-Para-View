@@ -388,6 +388,7 @@ const Main = () => {
             </div>
           </div>
           <div id="interestForm" className={styles.section}></div>
+          <FAQSection />
 
           {/* ================== 방문예약 섹션 (PC) ================== */}
           <div className={styles.pcVisitContainer}>
@@ -674,6 +675,7 @@ const Main = () => {
             </div>
           </div> */}
           {/* <MobileNewsSection newsList={newsLists} /> */}
+          <FAQSection />
 
           {/* 모바일 방문예약 섹션 */}
           <div className={styles.mobileVisitContainer}>
